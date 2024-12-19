@@ -28,7 +28,7 @@
     "standard": "16.0.4"
   },
   "dependencies": {
-    "@vtfk/logger": "4.1.2",
+    "@vtfk/logger": "6.2.0",
     "axios": "0.26.1"
   },
   "standard": {
